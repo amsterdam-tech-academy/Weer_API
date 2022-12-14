@@ -6,3 +6,5 @@
 
 
 ![ticker tape](https://github.com/amsterdam-tech-academy/Weer_API/blob/main/ticker_tape.gif "ticker tape")
+
+
