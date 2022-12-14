@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding-bottom: 5rem;
+  font-family: sans-serif;
+}
+
+h1, h2, p {
+  padding: 0 5%;
+}
+.container {
+  padding-left: 2rem;
+}
